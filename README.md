@@ -27,5 +27,6 @@ Encountered Row-Level Security (RLS) restrictions in Supabase, which initially b
 Managed API rate limits and inconsistent metadata responses from external sources like Google Scholar and Semantic Scholar.
 Dealt with file upload issues (bucket not found, 403 errors) requiring key configuration and policy adjustments.
 
+ Linkedln : https://www.linkedin.com/posts/syed-hussain-raza-11a65a2a3_dataengineering-python-supabase-activity-7383076541041250304-JX_7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk-0SYBcem36GjYiV-HCvA83F_HwtqOQE0
 
 Learned to debug and handle real-world data anomalies during text extraction and parsing.
